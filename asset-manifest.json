@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myMixology/static/css/main.b9348e89.css",
+    "main.js": "/myMixology/static/js/main.7e815baa.js",
+    "index.html": "/myMixology/index.html",
+    "main.b9348e89.css.map": "/myMixology/static/css/main.b9348e89.css.map",
+    "main.7e815baa.js.map": "/myMixology/static/js/main.7e815baa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9348e89.css",
+    "static/js/main.7e815baa.js"
+  ]
+}
