@@ -47,9 +47,7 @@ const RecipeDialog: React.FC<RecipeDialogProps> = ({ cocktail, open, onClose }) 
         <Box display="flex" justifyContent="space-between" alignItems="center">
           <Typography variant="h5" component="div">
             {cocktail.name}
-            <Typography variant="subtitle1" color="text.secondary" component="span" sx={{ ml: 2 }}>
-              {t(`cocktails.types.${cocktail.type.toLowerCase()}`)}
-            </Typography>
+            
           </Typography>
           <IconButton onClick={onClose} size="small">
             <CloseIcon />
